@@ -28,7 +28,7 @@ div {
 
 #factory {
 width: 750px;
-height: 750px;
+min-height: 750px;
 border: 4px solid black;
 margin-left: 10px;
 }
