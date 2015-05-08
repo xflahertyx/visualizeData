@@ -1,4 +1,4 @@
-# vistualizeData
+# visualizeData
 #Sea-C26 Visualize a Data Structure's Algorithm
 ## When Brook created his deck of cards, I wanted to apply the same ideas to create html element that would represent abstract shapes or objects. I decided to create two arrays of ten classes that could be applied at random to div elements as they were being generated. 
 ## My first go created one div with random size and color, but each additional div retained the previous classes. Scott Schmitt helped me get my variables in the correct scope. 
